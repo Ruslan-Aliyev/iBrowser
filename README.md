@@ -24,7 +24,7 @@ Project settings: Uncheck size classes to make your app fit properly on the scre
 
 ## Control drag to link up the view and the code
 
-![](https://raw.githubusercontent.com/atabegruslan/iBrowser/master/Illustrations/iBrowser1.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/iBrowser/master/Illustrations/iBrowser1.PNG)
 
 ```
 //
@@ -69,6 +69,6 @@ Project settings: Uncheck size classes to make your app fit properly on the scre
 												
 ## In the view, add button items. Then control-drag link up each button and their functionality respectively
 
-![](https://raw.githubusercontent.com/atabegruslan/iBrowser/master/Illustrations/iBrowser1.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/iBrowser/master/Illustrations/iBrowser1.PNG)
 
 ## Setting AutoRotate to no locks the screen orientation. Only allowing "UIInterfaceOrientationMaskPortrait" (i.e.: right-way-up) under "supportedInterfaceOrientations" also locks the screen.				
